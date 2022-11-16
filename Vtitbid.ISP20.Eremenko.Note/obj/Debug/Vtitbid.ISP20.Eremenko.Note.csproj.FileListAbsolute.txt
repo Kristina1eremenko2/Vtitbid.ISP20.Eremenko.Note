@@ -1,0 +1,16 @@
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\bin\Debug\Vtitbid.ISP20.Eremenko.Note.exe.config
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\bin\Debug\Vtitbid.ISP20.Eremenko.Note.exe
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\bin\Debug\Vtitbid.ISP20.Eremenko.Note.pdb
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\obj\Debug\Vtitbid.ISP20.Eremenko.Note.csproj.AssemblyReference.cache
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\obj\Debug\Vtitbid.ISP20.Eremenko.Note.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\obj\Debug\Vtitbid.ISP20.Eremenko.Note.csproj.CoreCompileInputs.cache
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\obj\Debug\Vtitbid.ISP20.Eremenko.Note.exe
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\obj\Debug\Vtitbid.ISP20.Eremenko.Note.pdb
+E:\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\bin\Debug\Vtitbid.ISP20.Eremenko.Note.exe.config
+E:\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\bin\Debug\Vtitbid.ISP20.Eremenko.Note.exe
+E:\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\bin\Debug\Vtitbid.ISP20.Eremenko.Note.pdb
+E:\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\obj\Debug\Vtitbid.ISP20.Eremenko.Note.csproj.AssemblyReference.cache
+E:\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\obj\Debug\Vtitbid.ISP20.Eremenko.Note.csproj.SuggestedBindingRedirects.cache
+E:\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\obj\Debug\Vtitbid.ISP20.Eremenko.Note.csproj.CoreCompileInputs.cache
+E:\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\obj\Debug\Vtitbid.ISP20.Eremenko.Note.exe
+E:\Vtitbid.ISP20.Eremenko.Note\Vtitbid.ISP20.Eremenko.Note\obj\Debug\Vtitbid.ISP20.Eremenko.Note.pdb
